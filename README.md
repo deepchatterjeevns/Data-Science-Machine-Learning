@@ -1,8 +1,7 @@
 # CIS5560-Data-Science-Machine-Learning
  
 Introduction to Big Data Science Project
-
-## PREDICTING AD CLICK FRAUD USING AZURE ML AND DATABRICKS SPARK ML
+### Predicting Ad Click Fraud:  Machine Learning Predictive Analysis Using Azure ML and Databricks Spark ML
 
 
 
