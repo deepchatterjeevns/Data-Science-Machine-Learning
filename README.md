@@ -23,4 +23,6 @@ Since the original dataset is over 7GB in size we have implemented a Python code
 [DataSet link for Spark ML tutorial](https://drive.google.com/file/d/1NiR9dYtEMZnWIMAw-FBEvP_MBcjrcRA4/)
 
 [DataSet Link for Azure ML tutorial](https://drive.google.com/open?id=1UHEOMbgsIjl-c2LOUghI9g4g3wMC2IhU)
+
+![](WIDSposter.png)
  
