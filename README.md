@@ -25,6 +25,7 @@ Since the original dataset is over 7GB in size we have implemented a Python code
 [DataSet Link for Azure ML tutorial](https://drive.google.com/open?id=1UHEOMbgsIjl-c2LOUghI9g4g3wMC2IhU)
 
 
+![](ML1.png)
 
 ![](ML.png)
  
