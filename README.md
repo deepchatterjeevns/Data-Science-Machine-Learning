@@ -1,4 +1,4 @@
-### Predicting Ad Click Fraud:  Machine Learning Predictive Analysis Using Azure ML and Databricks Spark ML
+## Predicting Ad Click Fraud:  Machine Learning Predictive Analysis Using Azure ML and Databricks Spark ML
 Introduction to Big Data Science Project
 
 
