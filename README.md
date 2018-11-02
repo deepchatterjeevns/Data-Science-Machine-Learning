@@ -7,7 +7,7 @@ Introduction to Big Data Science Project
 The goal of our project is to predict whether a user will download an app after clicking on a mobile app ad in order to better target the ads to the audience, to avoid fraudulent practices and save money. 
 
 
-### DATASET:
+## Dataset:
 
 The original dataset from Kaggle contains 200 million clicks over 4-day period provided by TalkingData.
 
